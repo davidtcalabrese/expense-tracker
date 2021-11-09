@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/davidtcalabrese.github.io/expense-tracker/static/css/main.565e27cd.chunk.css",
-    "main.js": "/davidtcalabrese.github.io/expense-tracker/static/js/main.8479d60c.chunk.js",
-    "main.js.map": "/davidtcalabrese.github.io/expense-tracker/static/js/main.8479d60c.chunk.js.map",
-    "runtime-main.js": "/davidtcalabrese.github.io/expense-tracker/static/js/runtime-main.744fe603.js",
-    "runtime-main.js.map": "/davidtcalabrese.github.io/expense-tracker/static/js/runtime-main.744fe603.js.map",
-    "static/js/2.c04579d0.chunk.js": "/davidtcalabrese.github.io/expense-tracker/static/js/2.c04579d0.chunk.js",
-    "static/js/2.c04579d0.chunk.js.map": "/davidtcalabrese.github.io/expense-tracker/static/js/2.c04579d0.chunk.js.map",
-    "index.html": "/davidtcalabrese.github.io/expense-tracker/index.html",
-    "static/css/main.565e27cd.chunk.css.map": "/davidtcalabrese.github.io/expense-tracker/static/css/main.565e27cd.chunk.css.map",
-    "static/js/2.c04579d0.chunk.js.LICENSE.txt": "/davidtcalabrese.github.io/expense-tracker/static/js/2.c04579d0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/davidtcalabrese.github.io/expense-tracker/static/media/mesh-gradient.be5f946b.jpg"
+    "main.css": "/expense-tracker/static/css/main.fc52de86.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.8479d60c.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.8479d60c.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.c9709db0.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.c9709db0.js.map",
+    "static/js/2.c04579d0.chunk.js": "/expense-tracker/static/js/2.c04579d0.chunk.js",
+    "static/js/2.c04579d0.chunk.js.map": "/expense-tracker/static/js/2.c04579d0.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "static/css/main.fc52de86.chunk.css.map": "/expense-tracker/static/css/main.fc52de86.chunk.css.map",
+    "static/js/2.c04579d0.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.c04579d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/expense-tracker/static/media/mesh-gradient.be5f946b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.744fe603.js",
+    "static/js/runtime-main.c9709db0.js",
     "static/js/2.c04579d0.chunk.js",
-    "static/css/main.565e27cd.chunk.css",
+    "static/css/main.fc52de86.chunk.css",
     "static/js/main.8479d60c.chunk.js"
   ]
 }
